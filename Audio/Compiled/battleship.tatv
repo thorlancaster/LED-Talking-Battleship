@@ -1,0 +1,36 @@
+# Format: <id> <startMillis> <endMillis>
+0  0 2100    	# Init sound
+1  2130 3370 	# Prepare for battle
+2  3410 3800	# Select
+3  3820 4360	# Game
+4  4390 4860	# One
+5  4890 5252	# Two
+6  5274 5789	# Three
+7  5804 6284	# Four
+8  6301 6872	# Players
+9  6897 7713	# Task Force
+10 7729 8242	# Enter
+11 8258 8982	# Patrol Boat
+12 8998 9569 	# Letter
+13 9583 10278	# Number
+14 10290 10959	# Direction
+15 10969 11545	# Armed
+16 11557 12356	# Destroyer
+17 12369 13119	# Submarine
+18 13131 13712	# Battleship
+19 13724 14111	# Carrier
+20 14233 18125	# Missile Fired
+21 18137 20611	# Missile Impact
+22 20621 21175	# Sunk
+23 21187 21481	# Hit
+24 21496 23811	# Siren
+25 23823 25384	# Man your battle stations
+26 25384 31364	# Taps
+27 31396 31653	# Button pressed
+28 31682 32279	# Fire
+69 32365 62929	# NYAN CAT
+29 62929 63669	# Size
+30 63669 64406	# Skill
+31 64627 65202	# Battery
+32 65216 65750	# Low
+33 65802 66522	# Depleted

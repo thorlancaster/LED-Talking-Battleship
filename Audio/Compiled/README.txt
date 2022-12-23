@@ -1,0 +1,1 @@
+Battleship.tatx should be copied byte for byte onto the SPI flash chip attached to the ATMega328.
